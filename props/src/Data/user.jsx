@@ -2,11 +2,11 @@ import React, { Component } from 'react'
 import Employee from './Employee'
 class User extends Component {
 
-    locations = ['Wayanad', 'New Delhi', 'Bangalore']
+    locations = ['Paris', 'New Delhi', 'Bangalore']
     user = {
-        id: 101,
-        name: "Rahul Gandhi",
-        email: "Rahul@pm.com"
+        id: 2011,
+        name: "Roman",
+        email: "Roman75@king.com"
     }
     render() {
         return (

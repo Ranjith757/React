@@ -1,9 +1,9 @@
 import CompB from './CompB'
 let CompA = () => {
 
-    let eid = 101;
-    let ename = "Rahul Gandhi";
-    let avail = true;
+    let eid = 102011;
+    let ename = "Roman";
+    // let avail = true;
 
 
     return <div>
