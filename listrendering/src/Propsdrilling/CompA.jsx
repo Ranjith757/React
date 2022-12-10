@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import CompB from './CompB'
 class CompA extends Component {
-    ename = "Rahul Gandhi - Jadoo"
+    ename = "Roman Reigns - WWE SuperStar"
     render() {
         return (
             <div>
