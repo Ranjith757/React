@@ -25,7 +25,7 @@ class User extends Component {
             <div>
 
                 <h1>User Component</h1>
-                <pre>{JSON.stringify(this.state)}</pre>
+                {/* <pre>{JSON.stringify(this.state)}</pre> */}
                 <button onClick={this.get_User_Handler}>Get Users</button>
                 <div className="container">
                     <div className="row">

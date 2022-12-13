@@ -49,7 +49,7 @@ class User extends Component {
                     </div>
                 </div>
 
-                <pre>{JSON.stringify(this.state.user)}</pre>
+                {/* <pre>{JSON.stringify(this.state.user)}</pre> */}
 
             </div>
         )
